@@ -1,8 +1,10 @@
 ## Programa de capacitacion
 ### Tarea 2
 Práctica de comandos Linux:
-- man 
+- man
+  
 ![man](/Tarea2/imagenes/man.png)
+
 - whoami
 ![whoami](/Tarea2/imagenes/whoami.png)
 - sudo 
@@ -31,7 +33,7 @@ Práctica de comandos Linux:
 -- ps
 ![ps](/Tarea2/imagenes/ps.png)
 - ll
-![ll](/imagenes/ll.png)
+![ll](/Tarea2/imagenes/ll.png)
 - sudo apt-get update
 - apt-get upgrade
 - sudo su
