@@ -2,7 +2,7 @@
 ### Tarea 2
 Práctica de comandos Linux:
 - man 
-![man](Tareas/Tarea2/imagenes/man.png)
+![man](/Tarea2/imagenes/man.png)
 - whoami
 ![man](/imagenes/whoami.png)
 - sudo 
