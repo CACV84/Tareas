@@ -30,7 +30,7 @@ Práctica de comandos Linux:
 - mkdir
 - rmdir
 - chmod
--- ps
+- ps
 ![ps](/Tarea2/imagenes/ps.png)
 - ll
 ![ll](/Tarea2/imagenes/ll.png)
