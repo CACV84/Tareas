@@ -8,7 +8,7 @@
 
 - git config --global credential.helper store https://TUusername:TUpassword@github.com
 
-![](/imagenes/store.png)
+![](/Tarea12/imagenes/store.png)
 
 ##### Relación entre prueba unitaria y la cobertura de una prueba unitaria
 
