@@ -5,7 +5,7 @@
 
 #####  Preguntas
 
-- ¿Por qué no se desarrolló un flujo que bloqueara definitivamente un usuario por ingresar la contraseña incorrecta?
+- ¿Por qué no se desarrolló un flujo que bloqueara definitivamente un usuario por ingresar la contraseña incorrecta despues de 5 intentos?
 
 - ¿Cual es la duración del JWT si se ingresa correctamente al sistema?
 
